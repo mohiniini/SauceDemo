@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21646" started-at="2021-08-11T05:40:28Z" finished-at="2021-08-11T05:40:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21646" started-at="2021-08-11T05:40:28Z" finished-at="2021-08-11T05:40:49Z">
+      <class name="Academy.AddToCart">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.AddToCart@7c16905e]" name="initialize" is-config="true" duration-ms="4441" started-at="2021-08-11T11:10:28Z" finished-at="2021-08-11T11:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="validateAppTitle(java.lang.String, java.lang.String)[pri:0, instance:Academy.AddToCart@7c16905e]" name="validateAppTitle" duration-ms="16722" started-at="2021-08-11T11:10:32Z" data-provider="getData" finished-at="2021-08-11T11:10:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAppTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Academy.AddToCart@7c16905e]" name="teardown" is-config="true" duration-ms="460" started-at="2021-08-11T11:10:49Z" finished-at="2021-08-11T11:10:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.AddToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

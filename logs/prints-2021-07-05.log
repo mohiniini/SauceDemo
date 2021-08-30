@@ -1,0 +1,20 @@
+17:39:08.057 [TestNG] INFO  resources.base - Navigate to home page
+17:39:08.399 [TestNG] INFO  resources.base - Successfully validated text msg
+17:39:11.150 [TestNG] INFO  resources.base - Restrcited User
+17:39:15.589 [TestNG] INFO  resources.base - Non restricted user
+17:50:36.192 [TestNG] INFO  resources.base - Navigate to home page
+17:50:56.075 [TestNG] INFO  resources.base - Navigate to home page
+17:51:00.021 [TestNG] INFO  resources.base - Navigate to home page
+17:51:14.621 [TestNG] INFO  resources.base - Successfully validated text msg
+17:51:24.905 [TestNG] INFO  resources.base - Successfully validated text msg
+17:51:28.159 [TestNG] INFO  resources.base - Successfully validated text msg
+17:51:34.973 [TestNG] INFO  resources.base - Navigate to home page
+17:51:38.374 [TestNG] INFO  resources.base - Navigate to home page
+17:51:46.102 [TestNG] INFO  resources.base - Successfully validated text msg
+17:51:46.215 [TestNG] INFO  resources.base - Successfully validated text msg
+17:52:42.515 [TestNG] INFO  resources.base - Navigate to home page
+17:52:46.679 [TestNG] INFO  resources.base - Successfully validated text msg
+17:52:54.871 [TestNG] INFO  resources.base - Restrcited User
+17:53:47.179 [TestNG] INFO  resources.base - Non restricted user
+17:53:47.314 [TestNG] INFO  resources.base - Non restricted user
+17:53:55.927 [TestNG] INFO  resources.base - Non restricted user

@@ -1,0 +1,4 @@
+# Created at 2021-08-10T13:17:23.663
+Boot Manifest-JAR contains absolute paths in classpath 'F:\seleniumCode\SauceDemoProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

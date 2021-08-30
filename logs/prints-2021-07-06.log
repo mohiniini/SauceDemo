@@ -1,0 +1,8 @@
+18:09:51.288 [main] INFO  resources.base - Navigate to home page
+18:11:44.010 [TestNG] INFO  resources.base - Navigate to home page
+18:11:45.546 [TestNG] INFO  resources.base - Restrcited User
+18:11:49.816 [TestNG] INFO  resources.base - Non restricted user
+18:14:38.209 [TestNG] INFO  resources.base - Navigate to home page
+18:14:41.088 [TestNG] INFO  resources.base - Restrcited User
+18:14:45.156 [TestNG] INFO  resources.base - Non restricted user
+10:42:16.819 [TestNG] INFO  resources.base - Navigate to home page
